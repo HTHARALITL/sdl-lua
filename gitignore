@@ -1,0 +1,5 @@
+# executáveis e arquivos de compilação
+sdl-lua-demo
+*.o
+*.out
+*.exe
